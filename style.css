@@ -1,0 +1,20 @@
+#txt{
+    font-size: xx-large;
+    font-weight: 900;
+    margin-top: 30px;
+    color: green;
+}
+#msg{
+    font-size: xx-large;
+    font-weight: 900;
+    margin-top: 30px;
+    color: orange;
+}
+.decor{
+    height: 400px;
+    width: 500px;
+    text-align: center;
+    margin-left: 390px;
+    margin-top: 30px;
+    background-image: url("./img/independence.png");
+}
